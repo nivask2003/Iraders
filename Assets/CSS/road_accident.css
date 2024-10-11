@@ -1,0 +1,11 @@
+.main form .form-group.securitycode .label{
+    font-weight: bold;
+}
+.main form .form-group .securitycode .code{
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    background-image: linear-gradient(red,purple);
+    height: 50px;
+    width: 150px;
+}

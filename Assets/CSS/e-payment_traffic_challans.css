@@ -1,0 +1,16 @@
+.main .card{
+    box-shadow:  0 0 8px;
+    align-items: center;
+    width: 600px;
+    height: 400px;
+}
+.main .card #h1{
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
+.main .card #h2{
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}

@@ -1,0 +1,44 @@
+.container .heading{
+    border-radius: 30px;
+    border: 2px solid black;
+    text-align: center;
+}
+.container .detail{
+    border-radius: 20px;
+    align-items: center;
+    border: 2px solid skyblue;
+}
+.container .detail .card{
+    width: 98%;
+    border-radius: 20px;
+    border: 2px solid skyblue;
+}
+.container .detail .card .card-body{
+    justify-content: space-between;
+}
+.container .detail .card .card-body .col1{
+    border: 2px solid skyblue;
+    width: 50%;
+}
+.container .detail .card .card-body .col2{
+    border: 2px solid skyblue;
+    width: 50%;
+}
+.container .detail .card .card-body .col1 form{
+    text-align: left;
+}
+.container .detail .card .card-body .col2 form{
+    text-align: left;
+}
+.container .detail .securitycode .label{
+    font-weight: bold;
+}
+.container .detail .securitycode .code{
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    background-image: linear-gradient(red,purple);
+    height: 50px;
+    width: 150px;
+    
+}

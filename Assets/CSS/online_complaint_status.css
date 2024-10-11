@@ -1,0 +1,35 @@
+.container .main{
+    border: 2px solid skyblue;
+    border-radius: 30px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+.container .main .card{
+    width: 500px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    box-shadow:  0 0 8px;
+
+}
+.container .main .card form .form-group label{
+    font-weight: bold;
+}
+.container .main .card form .form-group .code{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(red,purple);
+    width: 90px;
+    text-align: center;
+}
+.container .main .card form .form-group .btn{
+    background-color: black;
+    color: white;
+}
+.container .main .card form .form-group .btn:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
